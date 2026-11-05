@@ -39,7 +39,7 @@ A robust, microcontroller-based solar charge controller engineered for standalon
 * **Control Architecture:** Microcontroller firmware implementing hardware-level protection loops
 * **Lab Equipment:** DC Electronic Load, Solar Simulator / Bench Power Supply, Digital Storage Oscilloscope
 ![Display Unit](SOLAR.jpeg)
-![PCB Layout](GUI_DISPLAY_1.jpng)
+![PCB Layout](GUI_DISPLAY_1.png)
 ---
 
 *Note: Proprietary design calculations, complete manufacturing gerbers, and primary switching firmware are withheld. Full IP packages are available upon formal client engagement.*
