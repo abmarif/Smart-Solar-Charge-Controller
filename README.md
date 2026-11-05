@@ -38,8 +38,8 @@ A robust, microcontroller-based solar charge controller engineered for standalon
 * **EDA / Layout:** Proteus Design Suite
 * **Control Architecture:** Microcontroller firmware implementing hardware-level protection loops
 * **Lab Equipment:** DC Electronic Load, Solar Simulator / Bench Power Supply, Digital Storage Oscilloscope
-![Display Unit](SOLAR.jpg)
-![PCB Layout](Screenshot%202026-11-05%20225344.png)
+![Display Unit](SOLAR.jpeg)
+![PCB Layout](GUI_DISPLAY_1.jpng)
 ---
 
 *Note: Proprietary design calculations, complete manufacturing gerbers, and primary switching firmware are withheld. Full IP packages are available upon formal client engagement.*
